@@ -1,6 +1,12 @@
 
 # **Company Data Srapping**
 
+## Authors
+
+- [@vishwjeet14](https://github.com/vishwjeet14)
+
+# Introduction
+
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. 
 
 In this Project i am trying to scrap the information releate to top company available in india. For data scrapping i use ambition box website, in the data collection process , the attribute which are collected by me are given below.
@@ -15,8 +21,6 @@ In this Project i am trying to scrap the information releate to top company avai
 
 # **Library used in Projects**
 
-
- 
 ![Logo](https://i1.wp.com/www.datascienceexamples.com/wp-content/uploads/2019/10/python-and-pandas.jpg?fit=800%2C286&ssl=1)
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
 ![Logo](https://cdn.hackersandslackers.com/2020/11/beautifulsoup.jpg)
@@ -28,10 +32,9 @@ To run this project, you will need to add the following environment variables to
 
 https://raw.githubusercontent.com/vishwjeet14/Company-Data-Scrapper/main/requirments.txt
 
-## Authors
+# Code
 
-- [@vishwjeet14](https://github.com/vishwjeet14)
-
+![Logo](https://github.com/vishwjeet14/Company-Data-Scrapper/blob/main/picture/companycode.png)
 
 ## Feedback
 
